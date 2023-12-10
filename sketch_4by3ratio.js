@@ -36,7 +36,7 @@ let button;
 
 function preload() {
   //!!디자이너 vernacular로 바꾸기!
-images.push(loadImage("WordsOfAffirmation.png"));
+images.push(loadImage("WordsOfAffirmation.svg"));
 
 
   
